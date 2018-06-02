@@ -6,6 +6,11 @@ class Artist
   end 
   
   def find_or_create_by_name(name)
+    if (artist.name)
+      artist.name
+    else 
+      
+  end 
   
 
   
