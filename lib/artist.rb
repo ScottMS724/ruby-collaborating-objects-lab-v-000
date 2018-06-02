@@ -16,7 +16,7 @@ class Artist
   end 
   
   def self.find(name)
-    
+    self.all.detect { |
   
   def self.create(name)
     artist = Artist.new(name)
