@@ -7,8 +7,9 @@ class Artist
   
   def find_or_create_by_name(name)
     if (self.name)
-      artist.name
+      self.name
     else 
+      
       
   end 
   
