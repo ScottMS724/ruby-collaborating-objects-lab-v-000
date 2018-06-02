@@ -14,6 +14,7 @@ class Artist
   end 
   
   def self.create(name)
+    self = Arist.new
   
 
   
