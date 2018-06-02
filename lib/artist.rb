@@ -29,6 +29,10 @@ class Artist
     self.songs << song 
   end 
   
+  def self.all
+    @@all 
+  end 
+  
 
   
 
