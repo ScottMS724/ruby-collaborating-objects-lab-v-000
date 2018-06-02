@@ -42,10 +42,5 @@ class Artist
       puts song.title 
     end 
   end 
-    
-  
-
-  
-
   
 end 
