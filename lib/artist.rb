@@ -9,7 +9,7 @@ class Artist
     if (self.name)
       self.name
     else 
-      
+      self.new 
       
   end 
   
