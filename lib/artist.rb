@@ -9,8 +9,8 @@ class Artist
     if (self.name)
       self.name
     else 
-      self.new 
-      
+      self.create(name)
+    end 
   end 
   
 
